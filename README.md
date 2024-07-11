@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working **on various projects that enhance my skills in full stack development.**
 
-- 👨‍💻 All of my projects are available at [https://samridhi19.netlify.app/](https://samridhi19.netlify.app/)
+- 👨‍💻 All of my projects are available at ([https://samridhi19.netlify.app/)](https://samridhi.netlify.app/)
 
 - 📝 Ask me about Frontend development, Java, Python, or anything tech-related!
 
