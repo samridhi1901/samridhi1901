@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Samridhi Singh</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1&pause=10000000000000&color=F73283&random=false&width=560&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Tanisha" align="center" alt="Typing SVG" />
+    </a> 
+</p>
+<h3 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&lines=A+Passionate+FullStack+Developer+from+🇮🇳" alt="Typing SVG" />
+    </a>
+</h3>
+
 <h3 align="center">a final-year B.Tech student in Computer Science and Engineering at GLA University. My passion lies in building visually appealing and functional applications . I am always eager to learn, explore new ideas, and collaborate on innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samridhi1901&label=Profile%20views&color=0e75b6&style=flat" alt="samridhi1901" /> </p>
